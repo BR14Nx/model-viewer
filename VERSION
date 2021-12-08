@@ -1,0 +1,5 @@
+commit a59454c39f0e1949149191c0d1e204a0ddab5ecf
+Author: ben mbark youssef <benmbark@users.noreply.github.com>
+Date:   Wed Dec 8 17:35:09 2021 +0100
+
+    doc(3033): fix the alt and id attributes on some examples (#3040)
